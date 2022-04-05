@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently working on [wave](https://github.com/dbednar230/wave), a download manager written in Go which you can deploy to a homelab or make a self-hosted seedbox for yourself.
+
+High school student in Chicagoland still finding out what life has in store for them.
