@@ -9,4 +9,4 @@
 
 I'm a high school student in Chicagoland still finding out what life has in store for them.
 
-![Screenshot 2022-04-11 at 23-20-52 Spotify Generator Collage](https://user-images.githubusercontent.com/54457902/162879827-b28bd1e2-cf90-488d-b730-0c733b7e2328.png)
+![image](https://user-images.githubusercontent.com/54457902/163064844-3a2422a4-8ea4-44c7-8690-594303b06ad4.png)
